@@ -1,0 +1,28 @@
+## Git 101
+
+**Git** is the key tool we use to allow multiple people to work on the same code base.  **Git** takes care of merging everyone's contributions smoothly.  Hence, learning how to use Git is critical to contributing at Avant.
+
+## Exercises
+
+**Exercise 1:** [Go through the Try Git Guide](https://try.github.io)
+
+**Exercise 2:** Learn [How to file a github issue](https://guides.github.com/features/issues/ "git issue").  File a quick issue on our repo with any thoughts on the set up process so far.
+
+**Exercise 3:** Watch these videos:
+
+  * [First Look](https://www.youtube.com/watch?v=SCZF6I-Rc4I)
+  * [Setup](https://www.youtube.com/watch?v=7Inc0G0wutk&feature=iv&src_vid=FyfwLX4HAxM&annotation_id=annotation_549442395) (dont worry about GUI setup)
+  * [commit](https://www.youtube.com/watch?v=A-Cll9jEnnM&feature=iv&src_vid=WxMFZncm12s&annotation_id=annotation_2715859739)
+  * [log](https://www.youtube.com/watch?v=Ew8HQsFyVHo)
+  * [Remove](https://www.youtube.com/watch?v=jtuHOIlfS2Q)
+  * [Diff](https://www.youtube.com/watch?v=RXSriVcoI70&feature=iv&src_vid=A-Cll9jEnnM&annotation_id=annotation_1859558535)
+  * [Reset](https://www.youtube.com/watch?v=BKPjPMVB81g)
+  * [Rebase](https://www.youtube.com/watch?v=SxzjZtJwOgo)
+
+**Exercise 4:** Skim [Hadley Wickham's guide to git](http://r-pkgs.had.co.nz/git.html) for an additional refernce.
+
+**Exercise 5:** Create a repo on GitHub that contains a markdown file that answers these questions:
+
+   * How do you see the files changed within each commit from git log?
+   * How do you see the contents of what changed within each file from the git log?
+   * What does `HEAD` refer to in the context of git? (Not to be confused with the "HEAD<<<<" one observes within merge conflict)
