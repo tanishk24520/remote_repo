@@ -6,7 +6,7 @@
 
 **Exercise 1:** [Go through the Try Git Guide](https://try.github.io)
 
-**Exercise 2:** Learn [How to file a github issue](https://guides.github.com/features/issues/ "git issue").  File a quick issue on our repo with any thoughts on the set up process so far.
+**Exercise 2:** Learn [How to file a github issue](https://guides.github.com/features/issues/ "git issue").
 
 **Exercise 3:** Watch these videos:
 
